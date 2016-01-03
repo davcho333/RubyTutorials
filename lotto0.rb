@@ -13,4 +13,4 @@ def draw(num)
   end
 end
 
-draw(7)
+draw(10)
